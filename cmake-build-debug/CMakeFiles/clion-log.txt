@@ -1,0 +1,4 @@
+"F:\Programming\CLion\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\Programming\CS1342_ZybookReport
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/Programming/CS1342_ZybookReport/cmake-build-debug

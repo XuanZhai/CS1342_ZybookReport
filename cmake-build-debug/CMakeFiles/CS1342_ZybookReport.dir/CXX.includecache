@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Programming/CS1342_ZybookReport/Analyzer.cpp
+Analyzer.h
+F:/Programming/CS1342_ZybookReport/Analyzer.h
+
+F:/Programming/CS1342_ZybookReport/Analyzer.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+algorithm
+-
+cctype
+-
+dirent.h
+-
+Student.h
+F:/Programming/CS1342_ZybookReport/Student.h
+
+F:/Programming/CS1342_ZybookReport/Student.h
+iostream
+-
+string
+-
+
+F:/Programming/CS1342_ZybookReport/main.cpp
+Analyzer.h
+F:/Programming/CS1342_ZybookReport/Analyzer.h
+
